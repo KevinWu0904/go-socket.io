@@ -3,7 +3,7 @@ package socketio
 import (
 	"testing"
 
-	"github.com/googollee/go-engine.io"
+	"github.com/KevinWu0904/go-engine.io"
 	. "github.com/smartystreets/goconvey/convey"
 	"io"
 	"net/http"

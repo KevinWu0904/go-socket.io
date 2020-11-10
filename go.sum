@@ -1,9 +1,11 @@
-github.com/googollee/go-engine.io v1.0.1 h1:Q0H6NyghLSleyzQa5pN7N0ZZw15MLcgd+kqgXM2eAcA=
-github.com/googollee/go-engine.io v1.0.1/go.mod h1:ZcJSV0EqRvvcCXN7h7d8/EncnShfx85kv0SUsTIKTsg=
+github.com/KevinWu0904/go-engine.io v1.0.2-0.20201110105813-927e05108965 h1:ueu1kqlefu5cVE8OBgbBf0xzWWw3TW259T1auwgeiOQ=
+github.com/KevinWu0904/go-engine.io v1.0.2-0.20201110105813-927e05108965/go.mod h1:H2MPM/wrbGROCjXUbNuCaUuaEfqEQ8uSeS/jKhXTwuA=
 github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e h1:JKmoR8x90Iww1ks85zJ1lfDGgIiMDuIptTOhJq+zKyg=
 github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
 github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
 github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/jtolds/gls v4.2.1+incompatible h1:fSuqC+Gmlu6l/ZYAoZzx2pyucC8Xza35fpRVWLVmUEE=
 github.com/jtolds/gls v4.2.1+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
 github.com/smartystreets/assertions v0.0.0-20190215210624-980c5ac6f3ac h1:wbW+Bybf9pXxnCFAOWZTqkRjAc7rAIwo2e1ArUhiHxg=
