@@ -1,5 +1,5 @@
-github.com/KevinWu0904/go-engine.io v1.0.2-0.20201110105813-927e05108965 h1:ueu1kqlefu5cVE8OBgbBf0xzWWw3TW259T1auwgeiOQ=
-github.com/KevinWu0904/go-engine.io v1.0.2-0.20201110105813-927e05108965/go.mod h1:H2MPM/wrbGROCjXUbNuCaUuaEfqEQ8uSeS/jKhXTwuA=
+github.com/KevinWu0904/go-engine.io v1.0.2-0.20201110122331-9bcff5b074fe h1:m3lz4HrU3S7dzXFxhNB/8i5t995xE0mCt5UQdU0RxFg=
+github.com/KevinWu0904/go-engine.io v1.0.2-0.20201110122331-9bcff5b074fe/go.mod h1:H2MPM/wrbGROCjXUbNuCaUuaEfqEQ8uSeS/jKhXTwuA=
 github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e h1:JKmoR8x90Iww1ks85zJ1lfDGgIiMDuIptTOhJq+zKyg=
 github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
 github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
